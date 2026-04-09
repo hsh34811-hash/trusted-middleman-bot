@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=2CA5E0&center=true&vCenter=true&width=750&lines=🛡️+Trusted+Middleman+Bot;💎+TON+Price+%7C+Currency+Converter;🚫+Blacklist+%7C+⭐+Rating+System;🔔+Price+Alerts+%7C+✅+Verify+Middlemen;Built+with+%E2%9D%A4%EF%B8%8F+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=2CA5E0&center=true&vCenter=true&width=750&lines=Trusted+Middleman+Bot;TON+Price+%7C+Currency+Converter;Blacklist+%7C+Rating+System;Price+Alerts+%7C+Verify+Middlemen;Built+by+RAVEN+%40P_X_24" />
 
 <br/><br/>
 
@@ -230,7 +230,7 @@ EMOJI = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=120&section=header&text=✘%20𝙍𝘼𝙑𝙀𝙉&fontSize=35&fontColor=2CA5E0&fontAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=120&section=header&text=RAVEN+%40P_X_24&fontSize=30&fontColor=2CA5E0&fontAlignY=55&animation=twinkling" />
 
 <br/><br/>
 
