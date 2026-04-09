@@ -26,7 +26,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hsh34811-hash&repo=trusted-middleman-bot&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=2CA5E0&text_color=ffffff&icon_color=2CA5E0" />
+<img src="https://img.shields.io/github/stars/hsh34811-hash/trusted-middleman-bot?style=for-the-badge&logo=github&logoColor=white&color=0d0d0d&labelColor=16213e" />
+<img src="https://img.shields.io/github/forks/hsh34811-hash/trusted-middleman-bot?style=for-the-badge&logo=github&logoColor=white&color=0d0d0d&labelColor=16213e" />
+<img src="https://img.shields.io/github/issues/hsh34811-hash/trusted-middleman-bot?style=for-the-badge&logo=github&logoColor=white&color=0d0d0d&labelColor=16213e" />
 
 </div>
 
@@ -228,7 +230,7 @@ EMOJI = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:16213e&height=80&text=✘%20𝙍𝘼𝙑𝙀𝙉&fontSize=30&fontColor=2CA5E0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=120&section=header&text=✘%20𝙍𝘼𝙑𝙀𝙉&fontSize=35&fontColor=2CA5E0&fontAlignY=55&animation=twinkling" />
 
 <br/><br/>
 
